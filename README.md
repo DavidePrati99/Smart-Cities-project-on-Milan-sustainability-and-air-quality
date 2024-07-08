@@ -1,1 +1,1 @@
-# Smart_Cities_project_on_Milan_sustainability_and_air_quality
+# Smart Cities project on Milan sustainability and air quality

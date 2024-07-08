@@ -14,8 +14,7 @@ in places where currently there are no stations available. We will also determin
 presence of a new hypothetical green area, as a source of air purification, can improve air quality and con-
 sequently the city’s quality of life.
 
-Attention will be given to the challenges of integrating green spaces in degraded areas to ensure they con-
-tribute positively to the urban environment. The goal is to promote a sustainable and livable city, addressing
+Attention will be given to the challenges of integrating green spaces in degraded areas to ensure they contribute positively to the urban environment. The goal is to promote a sustainable and livable city, addressing
 both environmental and social dimensions of urban development.
 
 
@@ -30,3 +29,12 @@ and R2. At this point, based on real and realistic scenarios, we will estimate t
 could be recorded by a station in the Darsena area, and the improvement in air quality that would result
 from the creation of a new park at Scalo Farini, as an example to show that our model can be used for such
 tasks of prediction and impact assessment.
+
+The Notebooks are organized as follows:
+-  1- data exploration and preparation: preliminary data analysis, including filtering, integration, and management of geospatial data formats
+-  2- data augmentation for natural data: conversion of geospatial data of green areas into points, following the logic indicated in the report
+-  3- data augmentation for buildings: the same but for the buildings
+-  4- ML: Machine Learning approaches to achieve the predetermined goals
+-  5- Graphs for the report
+
+All further information are available in the report
